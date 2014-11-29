@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "container:"
+      name = "Classes">
+      <FileRef
+         location = "group:../Pod/Classes/NSArray+Functions.h">
+      </FileRef>
+      <FileRef
+         location = "group:../Pod/Classes/NSArray+Functions.m">
+      </FileRef>
+      <FileRef
+         location = "group:../Pod/Classes/NSDictionary+Functions.h">
+      </FileRef>
+      <FileRef
+         location = "group:../Pod/Classes/NSDictionary+Functions.m">
+      </FileRef>
+      <FileRef
+         location = "group:../Pod/Classes/FExtension.h">
+      </FileRef>
+   </Group>
+   <FileRef
+      location = "group:FExtension.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>
